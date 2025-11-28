@@ -34,6 +34,14 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
 ## Technical Skills & Keywords
 Motion Control | Servo Synchronization | Automation | PLC | High-Speed Cartoning | End-to-End System Design | Scalable Architecture | Production-Proven | Motion Logic | Load Balancing  
 
+## Orchestrix Framework 
+Only the HMI runs on my custom Orchestrix Framework.<br>
+The Orchestrix source code is available in the single framework repository:<br>
+
+[Orchestrix (Source Included)](https://github.com/sinfu98android/Orchestrix_main_framework/blob/main/README.md)
+
+<br>
+
 ## Contact 
 [Linkedin link](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
 Feel free to contact for questions, collaborations, or technical discussion
