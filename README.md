@@ -1,5 +1,5 @@
-# 3-Axis Synchronized Servo Robot
-**for sorting, collecting and cartoning**
+# 3-Axis Synchronized Servo Robota
+**for sorting, collecting and cartoning**<br>
 **Real-Time  | Modular & Scalable | HMI Powered by Orchestrix Framework**<br>
 [Orchestrix Framework (Source Included) | click here](https://github.com/sinfu98android/Orchestrix_main_framework/blob/main/README.md)
 
