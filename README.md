@@ -16,8 +16,11 @@ Minimal mechanical complexity<br>
 The system’s HMI is powered by the Orchestrix Framework for real-time monitoring and orchestration, while motion control runs independently on ARM-based embedded controllers and PLCs, enabling modular, lightweight, and high-performance robotic control.<br>
 
 This project demonstrates expertise in real-time robotics, multi-axis motion control, embedded systems, and industrial automation, making it highly relevant for advanced robotics applications.<br><br>
-🎥 **Watch Demo Video:** ![Youtube link](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)<br>
+🎥 **Watch Demo Video:** ![Youtube link](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)
+(https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)<br>
 *Shows full 3-servo synchronization, cartoning flow, and production throughput.*
+
+🎥 [**VIDEO MOTION LOGIC LINK**](https://youtu.be/t6ayRQXfv0I?si=mgnn0pu3ObnGp_fa) <-- *Here's a quick explanation of the 3-servo sync I implemented*
 
 ## Key Highlights 
 •  **High Throughput:** Designed for 240 PPM, operational at 120 PPM, with smooth, stable performance.<br>
